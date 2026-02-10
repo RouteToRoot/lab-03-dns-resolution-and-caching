@@ -20,13 +20,13 @@ nslookup cloudflare.com
 ## Screenshots
 
 ### Screenshot 1 – Flushed DNS + First Google Lookup  
-![Screenshot 1](screenshots/flushdns-and-nslookup-google.png)
+![Screenshot1](screenshots/flushdns-and-nslookup-google.png)
 
 ### Screenshot 2 – nslookup google.com using 1.1.1.1  
-![Screenshot 2](screenshots/nslookup-google-com.png)
+![Screenshot2](screenshots/nslookup-google-com.png)
 
 ### Screenshot 3 – nslookup cloudflare.com using 1.1.1.1  
-![Screenshot 3](screenshots/nslookup-google-cloudflare-1.1.1.1.png)
+![Screenshot3](screenshots/nslookup-google-cloudflare-1.1.1.1.png)
 
 
 
