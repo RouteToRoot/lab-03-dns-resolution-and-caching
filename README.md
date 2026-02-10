@@ -26,7 +26,7 @@ nslookup cloudflare.com
 ![nslookup google.com](screenshots/nslookup-google-com.png)
 
 ### Screenshot 3 — nslookup cloudflare.com using 1.1.1.1 Resolver
-![nslookup cloudflare.com with 1.1.1.1](screenshots/nslookup-google-cloudflare-1.1.1.1.png)
+![nslookup cloudflare.com](screenshots/nslookup-google-cloudflare-1.1.1.1.png)
 
 
 
