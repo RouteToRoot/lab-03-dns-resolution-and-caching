@@ -23,7 +23,8 @@ nslookup cloudflare.com
 ![Flushed DNS + nslookup google.com](screenshots/flushdns-and-nslookup-google.png)
 
 ### Screenshot 2 — nslookup google.com using 1.1.1.1 Resolver
-![nslookup google.com with 1.1.1.1](screenshots/nslookup google.com.png)
+![nslookup google.com with 1.1.1.1](screenshots/nslookup-google-com.png)
 
 ### Screenshot 3 — nslookup cloudflare.com using 1.1.1.1 Resolver
 ![nslookup cloudflare.com with 1.1.1.1](screenshots/nslookup-google-cloudflare-1.1.1.1.png)
+
