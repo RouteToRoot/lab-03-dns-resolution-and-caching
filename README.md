@@ -16,7 +16,3 @@ Run the following commands one at a time:
 ```powershell
 nslookup google.com
 nslookup cloudflare.com
-
-
-
-
