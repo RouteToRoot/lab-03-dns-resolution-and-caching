@@ -9,3 +9,18 @@ Understand how DNS resolution works, compare different DNS resolvers, and observ
 - ipconfig
 
 ---
+## Part A — Baseline DNS Lookup (Default Resolver)
+
+Run the following commands one at a time:
+nslookup google.com
+nslookup cloudflare.com
+## Screenshots
+
+### Screenshot 1 – Flushed DNS + First Google Lookup
+![Screenshot1](screenshots/flushdns-and-nslookup-google.png)
+
+### Screenshot 2 – nslookup google.com using 1.1.1.1
+![Screenshot2](screenshots/nslookup-google-com.png)
+
+### Screenshot 3 – nslookup cloudflare.com using 1.1.1.1
+![Screenshot3](screenshots/nslookup-google-cloudflare-1.1.1.1.png)
