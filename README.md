@@ -9,10 +9,3 @@ Understand how DNS resolution works, compare different DNS resolvers, and observ
 - ipconfig
 
 ---
-
-## Part A — Baseline DNS Lookup (Default Resolver)
-
-Run the following commands one at a time:
-```powershell
-nslookup google.com
-nslookup cloudflare.com
