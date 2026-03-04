@@ -171,12 +171,11 @@ These fundamentals are essential for identifying malicious domain activity and a
 ---
 
 ## Next Steps
-To expand your DNS analysis skills:
+To expand into host-level security monitoring:
 
-- Capture DNS traffic in Wireshark  
-- Compare DNS behavior on Linux using `dig`  
-- Investigate DNS over HTTPS (DoH)  
-- Explore DNS tunneling detection techniques  
-- Analyze DNS logs in a SIEM (ELK, Splunk, Sentinel)
+- **SOC Lab 04 — SSH Authentication Detection**
+- Analyze authentication logs for successful and failed login attempts
+- Identify patterns associated with brute-force attacks
+- Investigate authentication anomalies in Linux systems
 
-This lab establishes foundational DNS knowledge for network detection and forensic workflows.
+This transition moves from network protocol analysis into system-level security monitoring.
